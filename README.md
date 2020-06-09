@@ -6,7 +6,7 @@
 
 ### Includes:
 * Creating  Numpy Array
-* Learn Array's Feature
+* Learn Array's Features
 * Array Reshaping 
 * Array Concatenation
 * Array Split
